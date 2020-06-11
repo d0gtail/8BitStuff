@@ -1,7 +1,0 @@
-.gitignore
-.pio
-.vscode
-test
-.travis.yml
-lib
-include
